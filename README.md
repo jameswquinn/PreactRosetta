@@ -236,7 +236,7 @@ A: Preact Rosetta is specifically designed for Preact. For React applications, w
 **Q: How do I handle RTL languages?**
 A: Preact Rosetta now includes built-in support for RTL languages. Use the `dir` attribute in your HTML and CSS to handle text direction.
 
-For more FAQs and troubleshooting tips, see our [FAQ page](link-to-faq).
+For more FAQs and troubleshooting tips, see our [FAQ page](FAQ).
 
 ## License
 
